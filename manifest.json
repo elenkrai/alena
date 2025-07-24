@@ -1,0 +1,21 @@
+{
+  "name": "Petroleum English Helper",
+  "short_name": "OilVocab",
+  "+": null,
+  "description": "Английский для нефтегазовой отрасли",
+  "icons": [
+    {
+      "src": "/icon/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "+": null,
+      "purpose": "any maskable"
+    }
+  ],
+  "+": null,
+  "scope": "/",
+  "+": null,
+  "orientation": "portrait",
+  "+": null,
+  "categories": [ "education", "business" ]
+}
